@@ -3,8 +3,6 @@
 <h3 align="center">A highly motivated Evening studnet, yes! I currently go to local university during night time.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3a/b8/85/3ab885408e9bf6b811618b68fbd3207f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eddie-717314-huang&label=Profile%20views&color=0e75b6&style=flat" alt="eddie-717314-huang" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddie-717314-huang" alt="eddie-717314-huang" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
