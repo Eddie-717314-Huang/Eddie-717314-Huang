@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://linktr.ee/eddiehuang)
 <h1 align="center">Hi 👋, I'm Eddie Huang</h1>
 <h3 align="center">A passionate student from Taiwan</h3>
-<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/3a/b8/85/3ab885408e9bf6b811618b68fbd3207f.gif">
+<img align="middle" alt="Coding" width="250" src="https://i.pinimg.com/originals/3a/b8/85/3ab885408e9bf6b811618b68fbd3207f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddie-717314-huang&label=Profile%20views&color=0e75b6&style=flat" alt="eddie-717314-huang" /> </p>
 
