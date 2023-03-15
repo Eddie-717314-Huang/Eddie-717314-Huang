@@ -1,7 +1,6 @@
 [![MasterHead](https://i.imgur.com/G7XrGng.gif)](https://linktr.ee/eddiehuang)
 <h1 align="center">Hi 👋, I'm Eddie Huang</h1>
 <h3 align="center">A highly motivated Evening studnet, yes! I currently go to local university during night time.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/G7XrGng.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddie-717314-huang&label=Profile%20views&color=0e75b6&style=flat" alt="eddie-717314-huang" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddie-717314-huang" alt="eddie-717314-huang" /></a> </p>
