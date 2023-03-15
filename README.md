@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://linktr.ee/eddiehuang)
+[![MasterHead](https://i.imgur.com/G7XrGng.gif)](https://linktr.ee/eddiehuang)
 <h1 align="center">Hi 👋, I'm Eddie Huang</h1>
 <h3 align="center">A highly motivated Evening studnet, yes! I currently go to local university during night time.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/G7XrGng.gif">
