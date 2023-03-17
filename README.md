@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Flower Delivery Application**
 
-- 🌱 I’m currently learning **Python, AWS, Machine Learning**
+- 🌱 I’m currently learning **Python on Codecademy**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eddie-huang-26486978/](https://www.linkedin.com/in/eddie-huang-26486978/)
 
