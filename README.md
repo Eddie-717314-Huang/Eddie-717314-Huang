@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eddie-huang-26486978/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eddie-huang-26486978/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eddie-huang-26486978/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eddie-huang-26486978/" height="30" width="40" /></a>
 <a href="https://kaggle.com/eddie_crest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eddie_crest" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/dinos_o_man/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dinos_o_man/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bigeorloo87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigeorloo87" height="30" width="40" /></a>
