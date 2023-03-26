@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddie-717314-huang" alt="eddie-717314-huang" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="LeapYear" width="400" src="https://spaceplace.nasa.gov/review/leap-year/1day-1year.en.gif">
 
 - 🔭 I’m currently working on **Flower Delivery Application**
 
