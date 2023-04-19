@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Python on Codecademy**
 
+- 📝 I constantly sharing thoughts on https://twitter.com/Eddie66414109
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/eddie-huang-26486978/](https://www.linkedin.com/in/eddie-huang-26486978/)
 
 - 💬 Ask me about **Learning how to learn, learning resources**
